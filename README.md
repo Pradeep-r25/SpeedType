@@ -32,4 +32,3 @@ Simply open `index.html` in your web browser to start using the application.
 
 ## License
 
-MIT
